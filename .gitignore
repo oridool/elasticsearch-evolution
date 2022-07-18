@@ -46,3 +46,8 @@ derby.log
 .java-version
 !.mvn/wrapper/maven-wrapper.jar
 .attach_*
+/.gradle/
+/buildSrc/.gradle
+/buildSrc/build
+/spring-boot-starter-elasticsearch-evolution/build/
+/elasticsearch-evolution-core/build/
